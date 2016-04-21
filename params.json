@@ -1,0 +1,6 @@
+{
+  "name": "New-tab",
+  "tagline": "a new tab page (tested in firefox)",
+  "body": "# New-Tab\r\na new tab page (tested in firefox)\r\n![gif](https://raw.githubusercontent.com/CabbaLens/New-Tab/master/image.gif)\r\n# required: http://www.basson.at/firefox-addons/newtabhomepage\r\n example of homepage url: file:///C:/newtabpage/index.html\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
